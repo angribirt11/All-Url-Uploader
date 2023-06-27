@@ -46,4 +46,4 @@ class Config(object):
     BOT_USERNAME = "google_thien_bot"
 
     # auth users
-    AUTH_USERS = 911285605
+    AUTH_USERS = [911285605]
