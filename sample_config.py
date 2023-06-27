@@ -40,7 +40,7 @@ class Config(object):
     PROCESS_MAX_TIMEOUT = 3700
 
     # TG Ids
-    LOG_CHANNEL = -956026831
+    LOG_CHANNEL = -1786306461
     OWNER_ID = 911285605
     # bot username without @
     BOT_USERNAME = "google_thien_bot"
