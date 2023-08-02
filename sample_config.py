@@ -25,7 +25,7 @@
 class Config(object):
 
     # get a token from @BotFather
-    BOT_TOKEN = "6266997142:AAH5HyeUQNgJB65H9CYWe1btQ9PuEMHD7Y4"
+    BOT_TOKEN = "6266997142:AAGNzoqkiI6SsEjOvP-YPtm9NeUFzT3kwAI"
 
     # Get these values from my.telegram.org
     API_ID = 23687011
@@ -40,7 +40,7 @@ class Config(object):
     PROCESS_MAX_TIMEOUT = 3700
 
     # TG Ids
-    LOG_CHANNEL = -1786306461
+    LOG_CHANNEL = -953485930
     OWNER_ID = 911285605
     # bot username without @
     BOT_USERNAME = "google_thien_bot"
